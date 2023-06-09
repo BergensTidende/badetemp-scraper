@@ -1,12 +1,13 @@
 url,name,api,description,api_data,quality,quality_reported_at,temperature,temperature_reported_at
-https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/kalvtrevika,Kalvtrevika,/api/portlet/badeplass/022,"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
+https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/kalvtrevika,Kalvtrevika,/api/portlet/badeplass/022,"&amp;nbsp;
+NB; HELSEVERNENHETEN FRARÅDER BADING I KALVTREVIKA PÅ NÅVÆRENDE TIDSPUNKT! Vi oppdaterer denne siden fortløpende.
 Liten lokal badeplass. Parkering, toalett med tank. I 1997 ble tanken fundamentert på nytt og toalettet ombygd.
 Kalvtrevika
 Bilde:
 Beliggenhet: Ved Arnavågen, sør for industriområdet.
 Areal: 3 dekar.
 Transport: Lokaltog til Arna stasjon, NSB , og buss derfra, eller buss fra Nesstun. Det er heller ikke langt å gå fra Arna stasjon.
-Søk etter avganger på Skyss sine nettsider.","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '13,2°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 08:10'}",Bra,2023-06-06T00:00:00,13.2,2023-06-07T08:10:00
+Søk etter avganger på Skyss sine nettsider.","{'quality': 'Ukjent', 'quality_reported_at': 'Sist målt: 8. juni', 'temperature': '14,1°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 10:10'}",Ukjent,2023-06-08T00:00:00,14.1,2023-06-08T10:10:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/holmen,Holmen,/api/portlet/badeplass/012,"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Rommelig og barnevennlig bakland. En av de mest populære badeplassene i Arna. Stupebrett og toalett. Etter avtale med grunneier er det parkering nede i området mot avgift, hele året.
 Beliggenhet: Landfast holme på vestsiden av Arnavågen.
@@ -37,7 +38,7 @@ Sjøbadet er åpent hele sommeren, ubemannet.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Sandviken sjøbad
-Bilde: Gunn Eklund Breisnes","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 1. juni', 'temperature': '13,7°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 08:45'}",Bra,2023-06-01T00:00:00,13.7,2023-06-07T08:45:00
+Bilde: Gunn Eklund Breisnes","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 7. juni', 'temperature': '13,7°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 08:45'}",Bra,2023-06-07T00:00:00,13.7,2023-06-07T08:45:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/bergenhus/nordnes-sjobad,Nordnes sjøbad,,"Live temperaturer
 &amp;amp;amp;amp;amp;amp;amp;nbsp;
 Nordnes sjøbad ligger i Nordnesparken ikke langt unna Akvariet og med gangavstand til byen.
@@ -53,19 +54,21 @@ Om ikke sjøen frister, fins det oppvarmet badebasseng ...
 Bilde: Vibeke Vik Nordang
 Videre på internett
 Følg Nordnes Sjøbad på Facebook!",,,,,
-https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/bergenhus/helleneset,Helleneset,/api/portlet/badeplass/011,"&amp;amp;amp;amp;amp;amp;amp;nbsp;
+https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/bergenhus/helleneset,Helleneset,/api/portlet/badeplass/011,"&amp;nbsp;
 Helleneset
 Bilde: Gunn Eklund Breisnes
-Helleneset ligger mot byfjorden syd for Eidsvågneset. Området er en av Friluftsrådets mest sentrale og best utbygde badeplasser. Sandfjære for barn, svaberg og grasland.
-Beliggenhet: Mot byfjorden syd for Eidsvågneset.
-Barnebasseng på 10 x 15 m, dybde 0,5 - 0,9 m som blir fyllt på gode sommerdager. Rullestolsrampe til bassenget. Bassenget er uten tilsyn. All bading på eget ansvar. Stupebrett. Parkeringsplass for 100 biler. Toalettanlegg (WC). Bord og benker. Informasjonstavle. Området er godt egnet for stangfiske. Populært klippeklatrefelt mot sjøen.
+Helleneset er en av Friluftsrådets mest sentrale og best utbygde badeplasser. Sandfjære for barn, svaberg og grasland.
+Beliggenhet:
+Mot byfjorden syd for Eidsvågneset.
+Fasiliteter og tilkomst:
+Barnebasseng på 10 x 15 m, dybde 0,5 - 0,9 m som blir fylt på gode sommerdager. Rullestolrampe til bassenget. Bassenget er uten tilsyn. All bading på eget ansvar. Stupebrett. Parkeringsplass for 100 biler. Toalettanlegg (WC). Bord og benker. Informasjonstavle. Området er godt egnet for stangfiske. Populært klippeklatrefelt mot sjøen.
 Transport:
-Søk etter avganger på Skyss sine nettsider.","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 1. juni', 'temperature': '12,8°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 09:45'}",Bra,2023-06-01T00:00:00,12.8,2023-06-06T09:45:00
+Søk etter avganger på Skyss sine nettsider.","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '12,8°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 09:45'}",Bra,2023-06-06T00:00:00,12.8,2023-06-06T09:45:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/bergenhus/marineholmen-sandstrand,Marineholmen sandstrand,/api/portlet/badeplass/034,"&amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;nbsp;
 Sandstranden på Marineholmen er et privat initiativ. Du finner denne sentrale badeplassen i Thormøhlens gate 53 E, rett ved BI og Småpudden.
 Det er brygger rundt badeplassen som kan benyttes til f.eks. soling.
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '14,1°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 09:25'}",Bra,2023-05-31T00:00:00,14.1,2023-06-07T09:25:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 7. juni', 'temperature': '14,1°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 09:25'}",Bra,2023-06-07T00:00:00,14.1,2023-06-07T09:25:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/bergenhus/sydnes-sjobad,Sydnes sjøbad,,"Denne badeplassen er ikke en offentlig tilrettelagt badeplass, og vannkvaliteten og temperaturen måles sjeldnere enn ved de tilrettelagte badeplassene.
 &amp;nbsp;
 Sydnes sjøbad ligger ved Hurtigruteterminalen i Jekteviken. Gangavstand fra Torgalmenningen og sentrum.
@@ -92,7 +95,7 @@ Areal: 5 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Notabuneset
-Bilde: BOF","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '11,4°C', 'temperature_reported_at': 'Sist målt: 31. mai klokken 09:55'}",Bra,2023-05-31T00:00:00,11.4,2023-05-31T09:55:00
+Bilde: BOF","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '12,2°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 09:35'}",Bra,2023-05-31T00:00:00,12.2,2023-06-08T09:35:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fana/skjoldabukta,Skjoldabukta,/api/portlet/badeplass/028,"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Tilrettelagt område. Toalett, stupebrett og handicaprampe. Området drives av Friluftsrådet.
@@ -101,7 +104,7 @@ Areal: 15 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Skjoldabukta
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '10,7°C', 'temperature_reported_at': 'Sist målt: 30. mai klokken 08:35'}",Bra,2023-05-30T00:00:00,10.7,2023-05-30T08:35:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '15,5°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 08:10'}",Bra,2023-05-30T00:00:00,15.5,2023-06-08T08:10:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fana/mjolkevika,Mjølkevika,/api/portlet/badeplass/014,"&amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Mye brukt badeplass som ligger lunt og fint til. Atkomst fra Hordnesvegen. Parkeringsplass for ca. 50 biler i tilknytning til adkomstvegen.
@@ -111,7 +114,7 @@ Gangveg ned til badestranden. Stupebrett og leidere ut i sjøen. Stor plen med b
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Mjelkevika
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '11,7°C', 'temperature_reported_at': 'Sist målt: 31. mai klokken 09:35'}",Bra,2023-05-31T00:00:00,11.7,2023-05-31T09:35:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '12,7°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 09:20'}",Bra,2023-05-31T00:00:00,12.7,2023-06-08T09:20:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fana/gamlehaugen,Gamlehaugen,/api/portlet/badeplass/016,"&amp;nbsp;
 &amp;nbsp;
 Lunt badeområde i Nordåsvatnet. Flytebrygge med stupebrett. Sti fra parkanlegget på Gamlehaugen og ut til Konsulbukta. Parkering ved Gamlehaugen. Nytt toalett!
@@ -120,7 +123,7 @@ Transport:  Søk etter avganger på Skyss sine nettsider.
 Gamlehaugen
 Bilde:
 Badeplassen ligger i nydelige omgivelser i parken på Gamlehaugen
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '11,3°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:52'}",Bra,2023-05-30T00:00:00,11.3,2023-06-06T08:52:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '13,3°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 07:40'}",Bra,2023-05-30T00:00:00,13.3,2023-06-08T07:40:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fyllingsdalen/kyrkjetangen,Kyrkjetangen,/api/portlet/badeplass/013,"&amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;nbsp;
 Et av Friluftsrådets mest populære og best utbygde område. Godt egnet for barn.
@@ -130,7 +133,7 @@ Sandstrand, grasmark og stupebrett. Egnet for fiske. Parkeringsplass for 130 bil
 Transport: Søk etter avganger på Skyss sine nettsider.
 Romslig parkering.
 Kyrkjetangen.
-Bilde: Andrew M. S. Buller","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '12,8°C', 'temperature_reported_at': 'Sist målt: 31. mai klokken 11:56'}",Bra,2023-05-30T00:00:00,12.8,2023-05-31T11:56:00
+Bilde: Andrew M. S. Buller","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '14,8°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 07:50'}",Bra,2023-05-30T00:00:00,14.8,2023-06-08T07:50:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fyllingsdalen/storavatnetkrohnegarden,Storavatnet- Krohnegården,/api/portlet/badeplass/023,"&amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;nbsp;
 Beliggenhet:
@@ -144,7 +147,7 @@ Handikaptilpasset toalett. Området er tilrettelagt for bevegelseshemmede med ba
 Skogsområdet rundt Storavatnet er et mye brukt turområde med flere stier og svaberg ned til vannet. Kun tre parkeringsplasser for friluftsområdet som er reservert for handikappede, ellers lite parkeringsmuligheter. God bussforbindelse over Melkeplassen.
 Bilde: BOF
 Badeplassen har også et stupebrett
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '17,5°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 11:55'}",Bra,2023-05-30T00:00:00,17.5,2023-06-07T11:55:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 7. juni', 'temperature': '17,5°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 11:55'}",Bra,2023-06-07T00:00:00,17.5,2023-06-07T11:55:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fyllingsdalen/knappatjorn,Knappatjørn,,"Knappatjørna er ikke en offentlig tilrettelagt badeplass, og badevannskvalitet og temperatur måles sjelden.
 Onsdag 24. mai ble temperaturen målt til 14,8 grader og god vannskvalitet.
 &amp;nbsp;
@@ -159,13 +162,13 @@ Areal: 2 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Godvik har en liten vik med sandstrand og en brygge med badestige
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 30. mai', 'temperature': '14,1°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 10:25'}",Bra,2023-05-30T00:00:00,14.1,2023-06-07T10:25:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 7. juni', 'temperature': '14,1°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 10:25'}",Bra,2023-06-07T00:00:00,14.1,2023-06-07T10:25:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/laksevag/tennebekktjorna,Tennebekktjørna,/api/portlet/badeplass/015,"&amp;amp;amp;amp;nbsp;
 Større badeområde med to flotte sandstrender. Området har toalett og lekeplass. Informasjonstavle ved parkeringsplassen.
 Tennebekktjørna er innfallsport til Kanadaskogen, med turvei rundt vannet. Det er også god atkomst på turvei fra Fyllingsdalen og Lappeleiren.
 God bussforbindelse til Nipedalen. Begrenset parkering i Nipedalen,  gode parkeringsmuligheter i Lappeleiren.
 Tennebekktjørna har en lang sandstrand og et stort gressområde
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 9. mai', 'temperature': '16,8°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 10:00'}",Bra,2023-05-09T00:00:00,16.8,2023-06-07T10:00:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 7. juni', 'temperature': '16,8°C', 'temperature_reported_at': 'Sist målt: 7. juni klokken 10:00'}",Bra,2023-06-07T00:00:00,16.8,2023-06-07T10:00:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/laksevag/kirkebukten,Kirkebukten,,"&amp;amp;amp;amp;nbsp;
 Kirkebukten er ikke en offentlig tilrettelagt badeplass, og badevannskvaliteten måles sjeldnere enn ved de tilrettelagte badeplassene.
 Kirkebukten har en liten strand og en fin mur man både kan bade fra eller bare sitte og nyte!
@@ -178,7 +181,7 @@ Areal: 20 dekar.
 Parkeringsplassen har 260 plasser og ligger på Dalsmyra 500 meter før Mildevågen. Turvei fra parkeringen og inn i Arboretet fra nordøst. Gangveien ender ved friluftsområdet i Grønevika. Herfra er et godt utgangspunkt for å besøke friluftsområdene, Arboretets samlinger eller Blondehuset.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '11,5°C', 'temperature_reported_at': 'Sist målt: 31. mai klokken 08:10'}",Bra,2023-05-31T00:00:00,11.5,2023-05-31T08:10:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '11,1°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 08:50'}",Bra,2023-05-31T00:00:00,11.1,2023-06-08T08:50:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/ytrebygda/sandholna,Sandholna,/api/portlet/badeplass/033,"&amp;nbsp;
 &amp;nbsp;
 Friluftsområdet har 700 meter strandlinje mot Fanafjorden. Badeområdet er velegnet for barn.
@@ -197,7 +200,7 @@ Areal: 8 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Badeplassen på Lønningshavn har et stupebrett og svaberg en kan nyte solen på
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '11,3°C', 'temperature_reported_at': 'Sist målt: 31. mai klokken 07:45'}",Bra,2023-05-31T00:00:00,11.3,2023-05-31T07:45:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 31. mai', 'temperature': '13,5°C', 'temperature_reported_at': 'Sist målt: 8. juni klokken 08:30'}",Bra,2023-05-31T00:00:00,13.5,2023-06-08T08:30:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/vollane,Vollane,/api/portlet/badeplass/032,"&amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Stort område med sandfjære, stupebrett, toalett og informasjonstavle. Stor grasbakke som bakland. Parkeringsplass for handicappede, ellers mulig å parkere ved Eidsvåg kirke. Handicaprampe.
 &amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
@@ -206,7 +209,7 @@ Areal: 16 dekar
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Vollane
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 1. juni', 'temperature': '14,9°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 09:15'}",Bra,2023-06-01T00:00:00,14.9,2023-06-06T09:15:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '14,9°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 09:15'}",Bra,2023-06-06T00:00:00,14.9,2023-06-06T09:15:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/tommervagen,Tømmervågen,/api/portlet/badeplass/031,"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Rommelig område med barnevennlig badestrand. Stupebrett. Parkeringsplass for ca. 50 biler med tilkomst fra sør via Strandvegen. Fin gresslette til lek og opphold. Opparbeidete stier. Toalett. Informasjonstavle. Fortøyningsplasser for småbåter (leies ut av Friluftsrådet).
@@ -215,14 +218,14 @@ Areal: 47 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Tømmervågen
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 1. juni', 'temperature': '13,8°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 09:30'}",Bra,2023-06-01T00:00:00,13.8,2023-06-06T09:30:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '13,8°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 09:30'}",Bra,2023-06-06T00:00:00,13.8,2023-06-06T09:30:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/toppesanden,Toppesanden,/api/portlet/badeplass/030,"&amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Liten badeplass i Morvik med sandfjære, grillplass og benker.
 Tilgjengelighet: Litt bratt og kronglete sti fra Lokketoveien, vanskelig tilkomst for rullestol og barnevogn.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 8. mai', 'temperature': '12,8°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:35'}",Bra,2023-05-08T00:00:00,12.8,2023-06-06T08:35:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '12,8°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:35'}",Bra,2023-06-06T00:00:00,12.8,2023-06-06T08:35:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/storakervika,Storåkervika,/api/portlet/badeplass/029,"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Badeplass tilrettelagt med skjellsand. Parkeringsplass (felles med kirken) for ca. 30 biler. Gangvei, toalett og benk.
@@ -231,7 +234,7 @@ Areal: 6 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 Storåkervika
-Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 8. mai', 'temperature': '10,7°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:10'}",Bra,2023-05-08T00:00:00,10.7,2023-06-06T08:10:00
+Bilde:","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '10,7°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:10'}",Bra,2023-06-06T00:00:00,10.7,2023-06-06T08:10:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/hordvikhamnen,Hordvikhamnen,/api/portlet/badeplass/021,"&amp;amp;amp;amp;amp;amp;amp;amp;nbsp;
 Badeplass med fjære og svaberg. Gangvei fra riksveien. Toalett. Enkel lekeplass. Felles parkering med Hordvikhavn båtlag.
 Beliggenhet: Mellom Steinestø ferjekai og båthavnen til Hordvikhamn Båtlag.
@@ -247,4 +250,4 @@ Areal: 38 dekar.
 Transport:
 Søk etter avganger på Skyss sine nettsider.
 En flott badeplass, med flere små sandstrender, stupebrett og badestiger.
-Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 9. mai', 'temperature': '13,3°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:55'}",Bra,2023-05-09T00:00:00,13.3,2023-06-06T08:55:00
+Bilde: Trude Haugen","{'quality': 'Bra', 'quality_reported_at': 'Sist målt: 6. juni', 'temperature': '13,3°C', 'temperature_reported_at': 'Sist målt: 6. juni klokken 08:55'}",Bra,2023-06-06T00:00:00,13.3,2023-06-06T08:55:00
