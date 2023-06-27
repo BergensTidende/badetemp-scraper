@@ -1,6 +1,9 @@
 url,name,api,description,api_data,quality,quality_reported_at,temperature,temperature_reported_at
-https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/holmen,Holmen,,"👉🏼Tirsdag 13. juni ble det målt høye verdier av TKB (Termostabile koliforme bakterier)* i vannprøver fra denne badeplassen.
-Etter flere dager med intensivt sporingsarbeid, har vi funnet den sannsynlige forurensingskilten til den dårlige vannkvaliteten i Arnavågen. Spesielle forhold til blant annet flo og fjære gjør besiktigelsen og utbedringsarbeidet krevende, men utbedringer vil skje så fort som mulig.
+https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/holmen,Holmen,/api/portlet/badeplass/015,"&amp;amp;amp;amp;nbsp;
+Tirsdag 13. juni ble det målt høye verdier av TKB (Termostabile koliforme bakterier) i Arnavågen, da spesielt i Kalvtrevika/Heggelandsvika.
+Oppdatering 26. juni
+Etter en periode med intensivt sporingsarbeid, er forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
+Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende, men vi jobber på spreng for å ferdigstille og sette det nye rørene i drift. Vannkvaliteten i Arnavågen vil da raskt bli bedre.
 Vi oppdatere siden fortløpende.
 *TKB står for Termostabile koliforme bakterier. Koliforme bakterier er avføringsbakterier fra mennesker eller varmblodige dyr. E.coli er eksempel på en koliform bakterie.
 Fasiliteter
@@ -9,7 +12,7 @@ Badeplassen har bord og benker, toalett, bosspann og offentlig ettersyn. Det bli
 Beliggenhet og tilkomst
 Holmen ligger på en landfast holme på vestsiden av Arnavågen. Du kan ta tog til Arna og buss derfra, eller direkte buss fra Åsane terminal. Parkering mot avgift.
 Søk etter avganger på Skyss sine nettsider eller VY.
-&amp;nbsp;",,,,,
+&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 21. juni', 'temperature': '22,4°C', 'temperature_reported_at': 'Sist målt: 21. juni klokken 11:25'}",God,2023-06-21T00:00:00,22.4,2023-06-21T11:25:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/garnes,Garnes,/api/portlet/badeplass/017,"&amp;nbsp;
 Fasiliteter
 Stor, barnevennlig sandstrand med et stort gressareal på hele 29 dekar. Fra parkeringsplassen går det turstier inn i området.
@@ -17,10 +20,12 @@ Badeplassen har bord og benker, toalett, bosspann og offentlig ettersyn. Det bli
 Beliggenhet og tilkomst
 Holmen badeplass ligger mot Sørfjorden, vest for tidligere Bergens Guttehjem. Du kan ta tog til Arna og videre med buss. Parkeringsplass til ca. 60 biler.
 Søk etter avganger på Skyss sine nettsider eller VY.
-&amp;nbsp;","{'quality': 'Mindre god', 'quality_reported_at': 'Sist målt: 21. juni', 'temperature': '19,0°C', 'temperature_reported_at': 'Sist målt: 21. juni klokken 08:20'}",Mindre god,2023-06-21T00:00:00,19.0,2023-06-21T08:20:00
+&amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '21,2°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 11:10'}",God,2023-06-26T00:00:00,21.2,2023-06-26T11:10:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/kalvtrevikaheggelandsvika,Kalvtrevika/Heggelandsvika,,"👉🏼HELSEVERNENHETEN FRARÅDER BADING I KALVTREVIKA PÅ NÅVÆRENDE TIDSPUNKT!
 Tirsdag 13. juni ble det målt høye verdier av TKB (Termostabile koliforme bakterier) i vannprøver fra denne badeplassen.
-Etter flere dager med intensivt sporingsarbeid, har vi funnet den sannsynlige forurensingskilten til den dårlige vannkvaliteten i Arnavågen. Spesielle forhold til blant annet flo og fjære gjør besiktigelsen og utbedringsarbeidet krevende, men utbedringer vil skje så fort som mulig.
+Oppdatering 26. juni
+Etter en periode med intensivt sporingsarbeid, er forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
+Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende, men vi jobber på spreng for å ferdigstille og sette det nye rørene i drift. Vannkvaliteten i Arnavågen vil da raskt bli bedre.
 Vi oppdatere siden fortløpende.
 *TKB står for Termostabile koliforme bakterier. Koliforme bakterier er avføringsbakterier fra mennesker eller varmblodige dyr. E.coli er eksempel på en koliform bakterie.
 Fasiliteter
@@ -84,7 +89,7 @@ Badeplassen har bord og benker, har toalett, bosspann og offentlig ettersyn. Det
 Beliggenhet og tilkomst
 Adkomst via Hordnesvegen, gangveg ned til badestranden. Det er en parkeringsplass med plass til ca 50 biler i tilknytning til adkomstvegen.
 Søk etter avganger på Skyss sine nettsider.
-&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 21. juni', 'temperature': '20,6°C', 'temperature_reported_at': 'Sist målt: 21. juni klokken 09:45'}",God,2023-06-21T00:00:00,20.6,2023-06-21T09:45:00
+&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '21,1°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 09:50'}",God,2023-06-26T00:00:00,21.1,2023-06-26T09:50:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fana/skjoldabukta,Skjoldabukta,/api/portlet/badeplass/028,"&amp;amp;amp;amp;nbsp;
 Fasiliteter
 Sentralt plassert på Skjold, mot Nordåsvannet. Badeplassen er barnevennlig med stor gressplen, sandstrand, stupebrett og er tilrettelagt med handicaprampe. Området driftes av Friluftsrådet.
@@ -92,7 +97,7 @@ Badeplassen har bord og benker, har toalett, bosspann og offentlig ettersyn. Det
 Beliggenhet og tilkomst
 Badeplassen ligger på Skjold, med tilkomst via Harald Skjolds veg.
 Søk etter avganger på Skyss sine nettsider.
-&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 21. juni', 'temperature': '20,9°C', 'temperature_reported_at': 'Sist målt: 21. juni klokken 09:25'}",God,2023-06-21T00:00:00,20.9,2023-06-21T09:25:00
+&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '19,8°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 08:30'}",God,2023-06-26T00:00:00,19.8,2023-06-26T08:30:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fana/gamlehaugen,Gamlehaugen,/api/portlet/badeplass/016,"&amp;nbsp;
 Fasiliteter
 I rojale omgivelser, nederst i hagen på Gamlehaugen, ligger det et lunt badeområde, med flytebrygge og stupebrett i sommersesongen. Tilkomst til vannet via strand og svaberg.
@@ -101,7 +106,7 @@ Beliggenhet og tilkomst
 Badeplassen ligger i Konsulbukta ved Gamlehaugen. Sti gjennom parkanlegget. Parkering ved Gamlehaugen.
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
-Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 19. juni', 'temperature': '20,8°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 08:20'}",God,2023-06-19T00:00:00,20.8,2023-06-19T08:20:00
+Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '20,7°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 07:55'}",God,2023-06-26T00:00:00,20.7,2023-06-26T07:55:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fana/notabunesetsaganeset,Notabuneset/Saganeset,/api/portlet/badeplass/026,"&amp;nbsp;
 Fasiliteter
 En idyllisk badeplass på Saganeset innerst i Fanafjorden. Stor gressplen og barnevennlig sandfjære. Tilgang til sjø via svaberg, sandfjære eller badestige. En badeflåte ligger også ute i badesesongen.
@@ -109,7 +114,7 @@ Badeplassen har bord og benker, toalett, bosspann og offentlig ettersyn. Det bli
 Beliggenhet og tilkomst
 Badeplassen ligger på Sageneset langs Krokeidevegen, mot Fanafjorden. Parkeringsplass ved Krokeidevegen.
 Søk etter avganger på Skyss sine nettsider.
-&amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 19. juni', 'temperature': '19,6°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 10:45'}",God,2023-06-19T00:00:00,19.6,2023-06-19T10:45:00
+&amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '19,2°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 10:05'}",God,2023-06-26T00:00:00,19.2,2023-06-26T10:05:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fyllingsdalen/kyrkjetangen,Kyrkjetangen,/api/portlet/badeplass/013,"&amp;amp;amp;amp;nbsp;
 Fasiliteter
 En stor og populær badeplass ved Nordåsvannet. Området er meget barnevennlig, med flere små sandstrender, svaberg og gressmarker. Stupebrett og i badesesongen er det satt ut badebøyer i sjøen for å markere badeområdet.
@@ -117,7 +122,7 @@ Badeplassen har bord og benker, har toalett, bosspann og offentlig ettersyn. Det
 Beliggenhet og tilkomst
 Badeplassen ligger ved Nordåsvannet, sør for Bønes. Adkomst fra Straumeveien. Stor parkeringsplass.
 Søk etter avganger på Skyss sine nettsider.
-&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 19. juni', 'temperature': '19,4°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 08:35'}",God,2023-06-19T00:00:00,19.4,2023-06-19T08:35:00
+&amp;amp;amp;amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '19,2°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 08:10'}",God,2023-06-26T00:00:00,19.2,2023-06-26T08:10:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/fyllingsdalen/storavatnet-krohnegarden,Storavatnet - Krohnegården,/api/portlet/badeplass/023,"&amp;nbsp;
 👉🏼Rehabilitering av dammer i Storavatnet - alternativ badeplass for sommersesongen 2023
 Det  vil ikke være mulig å bruke badeplassen i Storavatnet badesesongen 2023. Etter ønske fra beboerne er det etablert en alternativ badeplass i det nærliggende Litlavatnet i sommer. Der vil det også være tilgang til de eksisterende toalettfasiliteter ved Storavatnet.
@@ -163,7 +168,7 @@ Beliggenhet og tilkomst
 Badeplassen ligger på Milde, på området som disponeres av Arboretet. Bussforbindelse til Milde. Parkeringsplassen har 260 plasser og ligger på Dalsmyra 500 meter før Mildevågen. Følg turvei fra parkeringsplassen og inn i Arboretet fra nordøst - gangveien ender ved friluftsområdet, forbi gangveien ned til Grønevika.
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
-Bilde: BOF","{'quality': 'God', 'quality_reported_at': 'Sist målt: 19. juni', 'temperature': '18,1°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 09:30'}",God,2023-06-19T00:00:00,18.1,2023-06-19T09:30:00
+Bilde: BOF","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '18,1°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 09:30'}",God,2023-06-26T00:00:00,18.1,2023-06-19T09:30:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/ytrebygda/gronevika,Grønevika,/api/portlet/badeplass/019,"&amp;nbsp;
 Fasiliteter
 Etter en tur gjennom flotte Arboretet kommer du til denne svært populære badeplassen mot Fanafjorden. Barnevennlig, med sandstrand, stupebrett og stor gresslette. Tilrettelagt for bevegelseshemmede med baderampe.
@@ -173,7 +178,7 @@ Beliggenhet og tilkomst
 Badeplassen ligger på Milde, på området som disponeres av Arboretet. Bussforbindelse til Milde. Parkeringsplassen har 260 plasser og ligger på Dalsmyra 500 meter før Mildevågen. Følg turvei fra parkeringsplassen og inn i Arboretet fra nordøst - gangveien ender ved friluftsområdet i Grønevika.
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
-Bilde: Bergen Vann","{'quality': 'God', 'quality_reported_at': 'Sist målt: 19. juni', 'temperature': '18,8°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 09:10'}",God,2023-06-19T00:00:00,18.8,2023-06-19T09:10:00
+Bilde: Bergen Vann","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '20,2°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 08:50'}",God,2023-06-26T00:00:00,20.2,2023-06-26T08:50:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/ytrebygda/lonninghavn,Lønninghavn,/api/portlet/badeplass/024,"&amp;nbsp;
 Fasiliteter
 Stort og lunt badeområde med svaberg og stupebrett. Ikke barnevennlig.
@@ -182,7 +187,7 @@ Beliggenhet og tilkomst
 Badeplassen ligger på Lønningen, rett ved Sletten ridesenter. Bussforbindelse. Skilt ved Fleslandsvegen viser til Lønningshavn badeplass.
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
-Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 19. juni', 'temperature': '17,8°C', 'temperature_reported_at': 'Sist målt: 19. juni klokken 09:50'}",God,2023-06-19T00:00:00,17.8,2023-06-19T09:50:00
+Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '19,2°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 09:30'}",God,2023-06-26T00:00:00,19.2,2023-06-26T09:30:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/gronnskjaret,Grønnskjæret,/api/portlet/badeplass/020,"&amp;nbsp;
 Fasiliteter
 Et flott bade- og turområde på Tertnes. Grønnskjæret har flere små badeviker og badefjære for barn, samt flere stupebrett, badestiger og svaberg. Gressletter og betongbrygger. Området brukes mye av de lokale barnehagene, og er tilrettelagt for bevegelseshemmede.
@@ -233,4 +238,4 @@ Beliggenhet og tilkomst
 Hordvikhavn ligger mellom Steinstø ferjekai og båthavnen til Hordvikhamn Båtlag. Felles parkering med båtlaget.
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
-Bilde: Bergen Vann","{'quality': 'Mindre god', 'quality_reported_at': 'Sist målt: 20. juni', 'temperature': '16,2°C', 'temperature_reported_at': 'Sist målt: 13. juni klokken 08:25'}",Mindre god,2023-06-20T00:00:00,16.2,2023-06-13T08:25:00
+Bilde: Bergen Vann","{'quality': 'Mindre god', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '21,0°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 12:15'}",Mindre god,2023-06-26T00:00:00,21.0,2023-06-26T12:15:00
