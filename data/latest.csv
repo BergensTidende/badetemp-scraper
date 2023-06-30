@@ -1,9 +1,10 @@
 url,name,api,description,api_data,quality,quality_reported_at,temperature,temperature_reported_at
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/holmen,Holmen,/api/portlet/badeplass/015,"&amp;amp;amp;amp;nbsp;
-Tirsdag 13. juni ble det målt høye verdier av TKB (Termostabile koliforme bakterier) i Arnavågen, da spesielt i Kalvtrevika/Heggelandsvika.
-Oppdatering 26. juni
-Etter en periode med intensivt sporingsarbeid, er forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
-Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende, men vi jobber på spreng for å ferdigstille og sette det nye rørene i drift. Vannkvaliteten i Arnavågen vil da raskt bli bedre.
+Tirsdag 13. juni ble det målt høye verdier av TKB* (Termostabile koliforme bakterier) i vannprøver fra denne badeplassen. Etter en periode med intensivt sporingsarbeid, ble forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
+Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende.
+Oppdatering 29. juni
+Utbedringsarbeidet vil pågå ut dagen, og avløpsledningen vil bli satt i drift i løpet av fredag 30. juni. Vi vil da forsikre oss om at rørene er tette, og vannkvaliteten i Arnavågen vil raskt bli bedre.
+Det vil bli tatt daglige vannprøver i Arnavågen i uken fremover for å forsikre oss om at vannkvaliteten bedrer seg.
 Vi oppdatere siden fortløpende.
 *TKB står for Termostabile koliforme bakterier. Koliforme bakterier er avføringsbakterier fra mennesker eller varmblodige dyr. E.coli er eksempel på en koliform bakterie.
 Fasiliteter
@@ -21,11 +22,12 @@ Beliggenhet og tilkomst
 Holmen badeplass ligger mot Sørfjorden, vest for tidligere Bergens Guttehjem. Du kan ta tog til Arna og videre med buss. Parkeringsplass til ca. 60 biler.
 Søk etter avganger på Skyss sine nettsider eller VY.
 &amp;nbsp;","{'quality': 'God', 'quality_reported_at': 'Sist målt: 26. juni', 'temperature': '21,2°C', 'temperature_reported_at': 'Sist målt: 26. juni klokken 11:10'}",God,2023-06-26T00:00:00,21.2,2023-06-26T11:10:00
-https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/kalvtrevikaheggelandsvika,Kalvtrevika/Heggelandsvika,,"👉🏼HELSEVERNENHETEN FRARÅDER BADING I KALVTREVIKA PÅ NÅVÆRENDE TIDSPUNKT!
-Tirsdag 13. juni ble det målt høye verdier av TKB (Termostabile koliforme bakterier) i vannprøver fra denne badeplassen.
-Oppdatering 26. juni
-Etter en periode med intensivt sporingsarbeid, er forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
-Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende, men vi jobber på spreng for å ferdigstille og sette det nye rørene i drift. Vannkvaliteten i Arnavågen vil da raskt bli bedre.
+https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/kalvtrevikaheggelandsvika,Kalvtrevika/Heggelandsvika,,"👉🏼HELSEVERNENHETEN FRARÅDER BADING I KALVTREVIKA PÅ NÅVÆRENDE TIDSPUNKT! Les mer om dette her.
+Tirsdag 13. juni ble det målt høye verdier av TKB* (Termostabile koliforme bakterier) i vannprøver fra denne badeplassen. Etter en periode med intensivt sporingsarbeid, ble forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
+Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende.
+Oppdatering 29. juni
+Utbedringsarbeidet vil pågå ut dagen, og avløpsledningen vil bli satt i drift i løpet av fredag 30. juni. Vi vil da forsikre oss om at rørene er tette, og vannkvaliteten i Arnavågen vil raskt bli bedre.
+Det vil bli tatt daglige vannprøver i Arnavågen i uken fremover. Ved gode vannprøver tre dager på rad, vil badeplassen bli friskmeldt.
 Vi oppdatere siden fortløpende.
 *TKB står for Termostabile koliforme bakterier. Koliforme bakterier er avføringsbakterier fra mennesker eller varmblodige dyr. E.coli er eksempel på en koliform bakterie.
 Fasiliteter
@@ -52,7 +54,7 @@ Helleneset ligger på Lønborg, to kilometer nord for NHH. 15 minutter med buss 
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
 Helleneset har barnevennlig sandfjære
-Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 20. juni', 'temperature': '17,5°C', 'temperature_reported_at': 'Sist målt: 28. juni klokken 10:20'}",God,2023-06-20T00:00:00,17.5,2023-06-28T10:20:00
+Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 28. juni', 'temperature': '17,5°C', 'temperature_reported_at': 'Sist målt: 28. juni klokken 10:20'}",God,2023-06-28T00:00:00,17.5,2023-06-28T10:20:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/bergenhus/nordnes-sjobad,Nordnes Sjøbad,/api/portlet/badeplass/035,"SJØTEMPERATUR OG TEMPERATUR I BASSENGET AKKURAT NÅ!
 &amp;nbsp;
 Fasiliteter
