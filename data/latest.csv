@@ -1,10 +1,12 @@
 url,name,api,description,api_data,quality,quality_reported_at,temperature,temperature_reported_at
-https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/holmen,Holmen,,"Tirsdag 13. juni ble det målt høye verdier av TKB* (Termostabile koliforme bakterier) i vannprøver fra denne badeplassen. Etter en periode med intensivt sporingsarbeid, ble forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
+https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/holmen,Holmen,/api/portlet/badeplass/012,"&amp;nbsp;
+Tirsdag 13. juni ble det målt høye verdier av TKB* (Termostabile koliforme bakterier) i vannprøver fra denne badeplassen. Etter en periode med intensivt sporingsarbeid, ble forurensingskilden til den dårlige vannkvaliteten i Arnavågen funnet.
 Spesielle forhold til blant annet flo og fjære har gjort besiktigelsen og utbedringsarbeidet krevende.
 Oppdatering 6. juli
-Den utbedrede avløpsledningen ved Øyrane Torg ble i dag tidlig satt i normal drift. Vi vil ha tett oppfølging  for å forsikre oss om at alt fungerer som normalt, så det vil fortsatt være litt aktivitet fra oss i området.
+Den utbedrede avløpsledningen ved Øyrane Torg er satt i normal drift. Vi vil ha tett oppfølging  for å forsikre oss om at alt fungerer som normalt.
 Det vil bli tatt daglige vannprøver i Arnavågen i uken fremover for å forsikre oss om at vannkvaliteten bedrer seg.
-Vi oppdatere siden fortløpende.
+Mye nedbør = dårlig  vannkvalitet
+Store nedbørsmengder vil som regel gi midlertidig dårlig vannkvalitet. Dette bedrer seg som regel etter ett døgn.
 *TKB står for Termostabile koliforme bakterier. Koliforme bakterier er avføringsbakterier fra mennesker eller varmblodige dyr. E.coli er eksempel på en koliform bakterie.
 Fasiliteter
 En romslig og barnevennlig badeplass i Arnavågen, med totalt 8 dekar gressareal. Den har lange strandlinjer og stupebrett.
@@ -12,7 +14,7 @@ Badeplassen har bord og benker, toalett, bosspann og offentlig ettersyn. Det bli
 Beliggenhet og tilkomst
 Holmen ligger på en landfast holme på vestsiden av Arnavågen. Du kan ta tog til Arna og buss derfra, eller direkte buss fra Åsane terminal. Parkering mot avgift.
 Søk etter avganger på Skyss sine nettsider eller VY.
-&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;",,,,,
+&amp;nbsp;","{'quality': 'Mindre god', 'quality_reported_at': 'Sist målt: 24. juli', 'temperature': '18,5°C', 'temperature_reported_at': 'Sist målt: 24. juli klokken 09:50'}",Mindre god,2023-07-24T00:00:00,18.5,2023-07-24T09:50:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/arna/garnes,Garnes,/api/portlet/badeplass/017,"&amp;nbsp;
 Fasiliteter
 Stor, barnevennlig sandstrand med et stort gressareal på hele 29 dekar. Fra parkeringsplassen går det turstier inn i området.
@@ -175,7 +177,7 @@ Beliggenhet og tilkomst
 Badeplassen ligger på Lønningen, rett ved Sletten ridesenter. Bussforbindelse. Skilt ved Fleslandsvegen viser til Lønningshavn badeplass.
 Søk etter avganger på Skyss sine nettsider.
 &amp;nbsp;
-Bilde: Trude Haugen","{'quality': 'Ukjent', 'quality_reported_at': 'Sist målt: 26. juli', 'temperature': '18,7°C', 'temperature_reported_at': 'Sist målt: 26. juli klokken 10:00'}",Ukjent,2023-07-26T00:00:00,18.7,2023-07-26T10:00:00
+Bilde: Trude Haugen","{'quality': 'God', 'quality_reported_at': 'Sist målt: 28. juli', 'temperature': '18,7°C', 'temperature_reported_at': 'Sist målt: 26. juli klokken 10:00'}",God,2023-07-28T00:00:00,18.7,2023-07-26T10:00:00
 https://www.bergen.kommune.no/hvaskjer/tema/badevann-og-parker/badeplasser/asane/gronnskjaret,Grønnskjæret,/api/portlet/badeplass/020,"&amp;nbsp;
 Fasiliteter
 Et flott bade- og turområde på Tertnes. Grønnskjæret har flere små badeviker og badefjære for barn, samt flere stupebrett, badestiger og svaberg. Gressletter og betongbrygger. Området brukes mye av de lokale barnehagene, og er tilrettelagt for bevegelseshemmede.
